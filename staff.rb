@@ -1,4 +1,4 @@
-require_relative './employee'
+require_relative './abstract/employee'
 
 class Staff < Employee
   def calculate_tax

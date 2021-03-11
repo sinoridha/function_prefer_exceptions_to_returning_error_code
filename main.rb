@@ -1,4 +1,3 @@
-# require_relative './init'
 require_relative './init'
 require_relative './manager'
 require_relative './staff'
